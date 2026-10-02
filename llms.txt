@@ -1,0 +1,36 @@
+# Fairway
+
+> Fairway is AI-powered vehicle title and registration software for auto dealers, lenders, fleet management companies, DMVs and titling partners. A 50-state rules engine (3,144 counties) generates transaction checklists, an AI audit checks title paperwork before it reaches the DMV, and DMV forms are filled automatically. About 1 million titles are automated on Fairway each year.
+
+Key facts:
+- Company: Fairway is the trade name of Palermo Solutions, Inc. (Delaware). Founders: Tyler Raugh (CEO) and Conrado Marturet (CTO).
+- Coverage: all 50 US states and 3,144 counties.
+- Results: 6x productivity; 2x more errors found than manual review; >50% cost savings and 50% lower error rates versus the status quo.
+- Texas: Fairway Complete files Texas title and registration for dealers for $29 per deal (can be passed through to the customer); under 2% of filings returned; 24-hour average approval.
+- Proof: South Carolina Automobile Dealers Association — 65% less audit time, 60%+ instant approvals across 750k titles a year.
+- Contact: info@getfairway.com
+
+## Product
+- [How Fairway works: rules engine, audit, forms, follow-up, portals, APIs](https://thomasmester.github.io/fairway-site-preview/platform): Rules engine, AI paperwork audit, form automation and follow-up: how Fairway turns 50-state title rules into compliant, ready-to-file transactions.
+- [50-State Rules Engine and smart checklists](https://thomasmester.github.io/fairway-site-preview/platform/rules-engine): Fairway codifies title and registration rules for 50 states and 3,144 counties and turns them into checklists, forms and audits that stay current.
+- [AI paperwork / deal jacket audit](https://thomasmester.github.io/fairway-site-preview/platform/ai-audit): Upload a title packet and Fairway’s AI checks every field, form and signature against state rules, with an instant pass or fail and the reasons why.
+- [DMV form automation](https://thomasmester.github.io/fairway-site-preview/platform/form-automation): Fairway surfaces the right DMV forms for each title transaction and fills PDFs and online forms from your documents, so nobody re-keys data.
+- [Automated follow-up for missing documents](https://thomasmester.github.io/fairway-site-preview/platform/communications): Fairway follows up by SMS, email and phone to collect insurance, inspections, emissions tests and other missing title documents, in any language.
+- [Citizen & dealer portals and virtual assistant](https://thomasmester.github.io/fairway-site-preview/platform/portals): Self-service portals and a virtual assistant that give citizens and dealers compliant title instructions and automated decisions, without a counter visit.
+- [Title & registration APIs and integrations](https://thomasmester.github.io/fairway-site-preview/platform/api): Embed Fairway’s rules engine, AI document audit and form automation in your platform with API-first, white-label title and registration modules.
+
+## Solutions
+- [Dealers and auctions](https://thomasmester.github.io/fairway-site-preview/solutions/dealers-and-auctions): Catch deal jacket errors before the DMV does. Fairway builds state checklists, audits paperwork with AI and fills DMV forms for dealers and auctions.
+- [Texas dealers: Fairway Complete, $29 per deal](https://thomasmester.github.io/fairway-site-preview/solutions/texas): Fairway checks paperwork in two minutes, manages Texas title and registration submission, and ships registration stickers. The DMV ships the title.
+- [Lenders: lien perfection and title management](https://thomasmester.github.io/fairway-site-preview/solutions/lenders): Perfect liens faster in all 50 states. Fairway audits title packets with AI, chases missing documents and fills state forms for auto lenders.
+- [Fleet management companies](https://thomasmester.github.io/fairway-site-preview/solutions/fleet-management): Automate titles, registrations and renewals across a fleet vehicle’s lifecycle, from acquisition to remarketing, with 50-state rules and AI checks.
+- [DMVs and motor vehicle agencies](https://thomasmester.github.io/fairway-site-preview/solutions/dmv): Fairway sits on top of existing DMV systems to codify title rules, audit applications with AI and give dealers and citizens self-service portals.
+- [Partners: EVRs, title processors, associations](https://thomasmester.github.io/fairway-site-preview/solutions/partners): Embed Fairway’s 50-state rules engine, AI document audit and form automation in your platform through APIs built for the vehicle titling ecosystem.
+
+## Proof
+- [South Carolina (SCADA): 65% less title audit time](https://thomasmester.github.io/fairway-site-preview/customers/scada): How the South Carolina Automobile Dealers Association used Fairway to audit 750k titles a year: 65% less audit time and 60%+ instant approvals.
+
+## Company
+- [Security and compliance](https://thomasmester.github.io/fairway-site-preview/security): How Fairway protects title and registration data: encryption in transit and at rest, role-based access, SOC 2 and no AI training on customer content.
+- [About Fairway](https://thomasmester.github.io/fairway-site-preview/about): Fairway builds AI software for vehicle title and registration. Founded by Tyler Raugh and Conrado Marturet to make titling fast, accurate and compliant.
+- [Contact and demo requests](https://thomasmester.github.io/fairway-site-preview/contact): Questions about Fairway’s title and registration software? Contact our team or request a demo for your dealership, lender, fleet or DMV.
